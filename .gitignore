@@ -7,10 +7,10 @@ yarn-error.log*
 firebase-debug.log*
 firebase-debug.*.log*
 # Firebase cache
-.firebase/
-index.html
-vendor/
-assets/
+# .firebase/
+# index.html
+# vendor/
+# assets/
 # Firebase config
 
 # Uncomment this if you'd like others to create their own Firebase project.
